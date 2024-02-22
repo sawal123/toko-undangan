@@ -1,3 +1,7 @@
+*{
+  color: #34364A;
+}
+
 .slick-slide {
     /* padding: 5px; */
     margin: 10px;
@@ -9,4 +13,11 @@
   }
   .slick-arrow{
     display: none !important;
+  }
+  .owl-item{
+    margin: 20px 0px 20px 0px !important;
+    /* display: inline; */
+  }
+  .owl-stage{
+    margin:5px;
   }
