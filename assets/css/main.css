@@ -21,3 +21,14 @@
   .owl-stage{
     margin:5px;
   }
+
+  div{
+    border:none !important;
+  }
+  /* .category::before{
+    right: 40px !important;
+    left: 40px !important;
+  } */
+  /* .img-slide::before{
+    display: inline-block !important;
+  } */
